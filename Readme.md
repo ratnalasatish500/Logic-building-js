@@ -20,3 +20,14 @@ odd num when divided reminder -1,1
 Return reversed string 
 example 
 "satish" -> hsitas
+
+6 factorial 
+
+7  find leap year 
+
+8. write a function that calculates and print the sum of the digits of a given number 
+-input a number positive  integer 12,13,24
+return sum of all digits 
+example
+12: 1 + 2 = 3
+23: 2 + 3 = 5

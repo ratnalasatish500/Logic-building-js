@@ -37,7 +37,7 @@ console.log(reverseStrings12("satish"))
 
 function factorial( inputval){
     if( inputval <0 ){
-       throw error ("negitive value not allowed")
+       throw Error ("negitive value not allowed")
     }
     let result = 1
     for ( let i= 1; i<=  inputval; i++ ) {
