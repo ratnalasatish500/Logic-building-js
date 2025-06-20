@@ -14,3 +14,9 @@ problem statements
 Return "even if the number is even "odd" if the number is odd
 even num when divided by 2 has reminder -2,0,2,4,12,122
 odd num when divided reminder -1,1 
+
+5.write a function that return thr reverse of string 
+-input A string 
+Return reversed string 
+example 
+"satish" -> hsitas
